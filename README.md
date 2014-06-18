@@ -23,6 +23,8 @@ Speakers
 * Matt McCormick
 
 
+* Mantilla Juan
+
 Duration
 --------
 
